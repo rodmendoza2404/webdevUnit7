@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/HocmJq2.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://i.imgur.com/HocmJq2.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
